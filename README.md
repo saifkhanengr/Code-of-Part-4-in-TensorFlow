@@ -1,1 +1,3 @@
 # Code-of-Part-4-in-TensorFlow
+
+In this repository, we will replicate the code from our Machine Learning Guide for Petroleum Professionals: Part 4 using TensorFlow. We have previously covered the Deep Learning from scratch using Numpy. If you are interested, you can read Part 4 of the guide  [here](https://jpt.spe.org/twa/machine-learning-guide-for-petroleum-professionals-part-4). Additionally, you can access the corresponding code from scratch on [GitHub](https://github.com/saifkhanengr/Machine-Learning-Guide-for-Petroleum-Professionals-Part-4/blob/main/Code%20of%20Part%204.ipynb). Without further ado, let's start reproducing the code in TensorFlow.
